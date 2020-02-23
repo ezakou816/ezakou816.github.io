@@ -50,6 +50,13 @@ a {
 
 .twitter {
   background-color: #55acee;
+   margin-right: 10px
+}
+
+.instagram {
+ 
+  background: linear-gradient(#D93177, #3f729b);
+  margin-right: 10px
 }
 
 .btn {
