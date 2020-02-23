@@ -162,14 +162,16 @@ header {
   text-align: center;
 }
 
-.message {
+a {
+  color:white;
+  font-size:30px;
   padding: 15px 40px;
   background-color: red;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
 
-.message:active {
+a:active {
   position: relative;
   top: 7px;
   box-shadow: none;
