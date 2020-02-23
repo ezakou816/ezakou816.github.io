@@ -89,6 +89,11 @@ header {
   float: left;
 }
 
+.header-left h{
+  font-size:44px;
+  color:white;
+}
+
 .header-right {
   float: right;
   background-color: rgba(255, 255, 255, 0.3);
