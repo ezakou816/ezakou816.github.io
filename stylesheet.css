@@ -16,7 +16,7 @@ a {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(cscs.JPG);
-  background-size: ;
+  background-size: auto;
   color: white;
   text-align: center;
 }
