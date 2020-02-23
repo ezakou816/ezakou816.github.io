@@ -7,18 +7,18 @@ a {
   text-decoration: none;
 }
 
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
 .container {
   width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
-}
-
-.top-wrapper {
-  padding: 180px 0 100px 0;
-  background-image:cscs.JPG;
-  background-size: cover;
-  color: white;
-  text-align: center;
 }
 
 .top-wrapper h1 {
@@ -72,12 +72,9 @@ header {
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
-  /* positionプロパティをfixedに、topを0に指定してください */
-  position:fixed;
-  top:0;
-  z-index:10;
-  /* z-indexを10に指定してください */
-  
+  position :fixed;
+  top: 0;
+  z-index: 10;
 }
 
 .logo {
